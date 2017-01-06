@@ -1,5 +1,17 @@
 ﻿[
   {
+    "name": "Assortment",
+    "file": "assortment_jp",
+    "extension": "ipf",
+    "fileVersion": "v0.0.5",
+    "releaseTag": "bin",
+    "unicode": "🍩",
+    "tags": [
+      "sort",
+      "inventory"
+    ]
+  },
+  {
     "name": "Durability Detail",
     "file": "durdetail",
     "extension": "ipf",

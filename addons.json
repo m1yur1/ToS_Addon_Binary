@@ -38,6 +38,30 @@
     ]
   },
   {
+    "name": "Quickslot GUID Fix",
+    "file": "qsguidfix",
+    "extension": "ipf",
+    "fileVersion": "v0.0.2",
+    "releaseTag": "bin",
+    "unicode": "💩",
+    "description": "検証不十分。『クイックスロットに呪文書を入れて、その呪文書をインベントリ内で移動すると、クイックスロットの呪文書が変になる』のを防ぐかもしらない。",
+    "tags": [
+      "ui"
+    ]
+  },
+  {
+    "name": "Quiet Typing",
+    "file": "quiettyping",
+    "extension": "ipf",
+    "fileVersion": "v1.0.0",
+    "releaseTag": "bin",
+    "unicode": "🍩",
+    "description": "チャット入力時等でタイピング効果音を鳴らさなくする。",
+    "tags": [
+      "ui"
+    ]
+  },
+  {
     "name": "Thousand Separated Price",
     "file": "tsepprice",
     "extension": "ipf",

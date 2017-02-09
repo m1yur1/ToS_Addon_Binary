@@ -56,7 +56,7 @@
     "fileVersion": "v1.0.0",
     "releaseTag": "bin",
     "unicode": "🍩",
-    "description": "チャット入力時等でタイピング効果音を鳴らさなくする。",
+    "description": "チャット入力時等でタイピング効果音を鳴らさなくする。addons\\quiettyping\\append.jsonを編集する事で、静的な新規UIへの対応を行える。",
     "tags": [
       "ui"
     ]

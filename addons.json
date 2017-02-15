@@ -13,6 +13,21 @@
     ]
   },
   {
+    "name": "cwSet",
+    "file": "cwset",
+    "extension": "ipf",
+    "fileVersion": "v1.0.3",
+    "releaseTag": "bin",
+    "unicode": "🐻",
+    "description": "https://github.com/fiote/ToS-Addons/ にある cwSet の不具合を幾つか修正したモノ。",
+    "tags": [
+      "inventory",
+      "gear",
+      "set",
+      "swap"
+    ]
+  },
+  {
     "name": "Durability Detail",
     "file": "durdetail",
     "extension": "ipf",

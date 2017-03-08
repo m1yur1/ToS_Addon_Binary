@@ -92,7 +92,7 @@
   },
   {
     "name": "Tooltip Helper",
-    "file": "_tooltiphelper",
+    "file": "tooltiphelper",
     "extension": "ipf",
     "fileVersion": "v2.1.4",
     "releaseTag": "bin",

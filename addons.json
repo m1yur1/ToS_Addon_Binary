@@ -68,7 +68,7 @@
     "name": "Sort Example",
     "file": "sortexample",
     "extension": "ipf",
-    "fileVersion": "v0.6.0",
+    "fileVersion": "v0.7.0",
     "releaseTag": "bin",
     "unicode": "🍩",
     "description": "assortment的なアレ。2017-03-29現在の日本用クライアントプログラムで動作するかもしらない(未確認)。",

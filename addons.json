@@ -1,18 +1,5 @@
 ﻿[
   {
-    "name": "Assortment_jp",
-    "file": "assortment_jp",
-    "extension": "ipf",
-    "fileVersion": "v0.0.6",
-    "releaseTag": "bin",
-    "unicode": "🍩",
-    "description": "『IMC GAMESのヤツにイロハを教えてやる。ちゃんとインベントリをソートするぜ。(意訳)』2017-01-06現在の日本用クライアントプログラムのみ対応。",
-    "tags": [
-      "sort",
-      "inventory"
-    ]
-  },
-  {
     "name": "cwSet",
     "file": "cwset",
     "extension": "ipf",
@@ -75,6 +62,19 @@
     "description": "チャット入力時等でタイピング効果音を鳴らさなくする。addons\\quiettyping\\append.jsonを編集する事で、静的な新規UIへの対応を行える。",
     "tags": [
       "ui"
+    ]
+  },
+  {
+    "name": "Sort Example",
+    "file": "sortexample",
+    "extension": "ipf",
+    "fileVersion": "v0.6.0",
+    "releaseTag": "bin",
+    "unicode": "🍩",
+    "description": "assortment的なアレ。2017-03-29現在の日本用クライアントプログラムで動作するかもしらない(未確認)。",
+    "tags": [
+      "sort",
+      "inventory"
     ]
   },
   {

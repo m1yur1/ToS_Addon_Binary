@@ -65,6 +65,20 @@
     ]
   },
   {
+    "name": "Repair Plus",
+    "file": "repairplus",
+    "extension": "ipf",
+    "fileVersion": "v1.0.0",
+    "releaseTag": "bin",
+    "unicode": "🍩",
+    "description": "鍛冶屋及びスクワイアで修理を行う際のフレームで、耐久度をゲージで表す。",
+    "tags": [
+      "ui",
+      "durability",
+      "repair"
+    ]
+  },
+  {
     "name": "Sort Example",
     "file": "sortexample",
     "extension": "ipf",
